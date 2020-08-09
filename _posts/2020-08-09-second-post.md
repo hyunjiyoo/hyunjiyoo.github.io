@@ -1,12 +1,13 @@
 ---
-layout: post
 title: "두번째 포스팅"
+date: 2020-08-09 23:14:28 -0400
+categories: jekyll update
 ---
 
 ## 두번째 포스트를 제대로 써보자.
 티스토리 블로그를 깃헙블로그로 옮겨보자.
 
-```js
+```javascript
 console.log(this); // window객체
 ```
 
